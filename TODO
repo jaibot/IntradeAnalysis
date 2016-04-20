@@ -1,0 +1,6 @@
+factor out boilerplate to library, to be imprted into notebooks without cluttering them up
+try different correlation models
+try interpolating prices (instead of carry-forward)
+	there are arguments for and against this
+engineer features for logistic model
+	probably use a neural network
